@@ -134,6 +134,7 @@ video{
 
     .sidebar{
         display: flex;
+        overflow: scroll;
     }
 
     .sidebar > div{
